@@ -20,7 +20,7 @@ public class OutputFrame extends javax.swing.JFrame {
     public OutputFrame(String stringInput) {
         initComponents();
         this.setLocationRelativeTo(null);
-        this.setTitle("Teori Komputasi - IF3607");
+        this.setTitle("Teori Komputasi - IF3706");
         
         ArrayList<DataType> substringList = new ArrayList<>();
         DataType.Lexic lexic = DataType.Lexic.Blank;
