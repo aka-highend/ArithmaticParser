@@ -1,2 +1,2 @@
 # TekomIF3706
-A project for Theory of Computation course, which is an Arithmatic Parser that could validate an arithmatic expression.
+One of the course task for Theory of Computation course, which is an Arithmatic Parser that could validate an arithmatic expression.
